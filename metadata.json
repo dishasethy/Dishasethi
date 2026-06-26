@@ -1,0 +1,8 @@
+{
+  "name": "Arrakis Harmonic",
+  "description": "A high-concept cinematic-synth portfolio and soundscape visualizer inspired by Arrakis. Features tactile analog-synth console controls, real-time particle simulations, and server-side Gemini-powered atmospheric signal decoders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
