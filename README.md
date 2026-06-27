@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Hi there, I'm Disha Sethi 👋
 
-# Run and deploy your AI Studio app
+## 👩‍💻 About Me
+* 🚀 I am a developer passionate about building scalable backend infrastructure and integrating generative AI solutions.
+* 🌟 Active participant in **GirlScript Summer of Code (GSSoC) 2026**.
+* 🧠 Currently advancing my knowledge in LLMs and AI infrastructure through the **Google Cloud Gen AI Academy**.
+* 💡 Actively practicing problem-solving and algorithms on **LeetCode**.
 
-This contains everything you need to run your app locally.
+## 🛠️ Tech Stack & Tools
 
-View your app in AI Studio: https://ai.studio/apps/90e75dce-22c9-4ca3-b853-3cbb358805e5
+### Backend & Cloud Infrastructure
+* **Databases:** MongoDB Atlas
+* **BaaS / Platforms:** Appwrite, Firebase
 
-## Run Locally
+### Artificial Intelligence
+* **Generative AI:** Google AI Studio (Gemini Models)
 
-**Prerequisites:**  Node.js
+## 📁 Featured Projects
 
+### [Project Name 1]
+> A brief, one-sentence description of what this project does and why you built it.
+* **Tech Stack:** Firebase, Google AI Studio
+* **Highlights:** * Implemented feature X resulting in Y.
+  * Architected the backend using Z.
+* [Live Demo](#) | [Source Code](#)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### [Project Name 2]
+> A brief, one-sentence description of what this project does.
+* **Tech Stack:** Appwrite, MongoDB Atlas
+* **Highlights:** * Built scalable database schemas.
+  * Integrated secure authentication flow.
+* [Live Demo](#) | [Source Code](#)
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
+
+## 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **LeetCode:** [leetcode.com/YOUR_USERNAME](https://leetcode.com/)
